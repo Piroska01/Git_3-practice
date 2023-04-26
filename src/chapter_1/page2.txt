@@ -1,3 +1,5 @@
 now lets if I remember from yesterday
 
 commit-> select only page2.txt -> commit
+
+look good its working
